@@ -1,1 +1,1 @@
-# QlikSense-PatientCostingAnalysis
+# QlikSense
